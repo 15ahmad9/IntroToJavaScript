@@ -5,7 +5,6 @@ console.log("The value of this number is " + number);
 var stringName = "Ahmad"
 console.log("My name is " + stringName);
 
-
 console.log("The sum ", number + number2);
 
 var result = number + number2
@@ -83,7 +82,6 @@ let txt1 = "this is let text"
 
 console.log(this.txt);
 console.log(this.txt1);
-
 
 
 let newLet = 15
