@@ -13,15 +13,27 @@ console.log("The sum" + result);
 
 number = 90
 console.log(number);
-console.log(number2 - 4);
+var res = number2 - 2;
 
-// data types
+console.log(number2 - 4);
+console.log(res);
+
+var x = 1.6;
 
 var bool = false
-var Y
+var y;
 var nullVa1ue = null
 
+// data types
 console.log("Data type of number", typeof number);
+console.log("Data type of res", typeof res);
+console.log("Data type of x", typeof x);
+console.log("Data type of stringName", typeof stringName);
+console.log("Data type of bool", typeof bool);
+console.log("Data type of y", typeof y);
+console.log("Summation of number and stringName", number + stringName);
+console.log("Summation of number and stringNumber", number + parseInt(stringNumber));
+
 
 
 // Math operation
